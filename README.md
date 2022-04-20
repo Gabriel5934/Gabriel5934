@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # gabriel andrade.
-### Front-end dev, computer engineering student
+### front-end dev, computer engineering student.
 
 
 
