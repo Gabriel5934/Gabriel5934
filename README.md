@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gabriel5934/Gabriel5934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# gabriel andrade.
+### Front-end dev, computer engineering student
+
+
+
