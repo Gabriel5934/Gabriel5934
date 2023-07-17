@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 - 🍔 ZAMP (Burger King do Brasil) - Analista Desenvolvedor Jr.
 - 💻 PD Soluções - Desenvolvedor Front End Jr.
 
+# Freelances
+https://github.com/gnunezandrade
+
 
