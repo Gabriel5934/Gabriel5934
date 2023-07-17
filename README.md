@@ -13,8 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# gabriel andrade.
-### front-end dev, computer engineering student.
 
+# Gabriel Andrade - Deselvolvedor Front End Pleno
+![Alt text](https://media.licdn.com/dms/image/D4D16AQHXNVsbCE8d6Q/profile-displaybackgroundimage-shrink_350_1400/0/1681925313689?e=1695254400&v=beta&t=f9mdvOVYgmDhB8PKMuDQ1jDcRwhV6eHXPV8vE8upeXE "a title")
+## Skills
+- 🧾 JavaScript, TypeScript, Python 
+- 🔧 React, Svelte, Next.js, SvelteKit
+- 🔥 Firebase
+- 🧪 Cypress, Jest, Vitest
+- 🎨 TailwindCss, MaterialUI
+
+## Work
+- 🍔 ZAMP (Burger King do Brasil) - Analista Desenvolvedor Jr.
+- 💻 PD Soluções - Desenvolvedor Front End Jr.
 
 
