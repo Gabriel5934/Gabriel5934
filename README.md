@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Gabriel Andrade - Desenvolvedor Front End Pleno
+# Gabriel Andrade - Desenvolvedor Front End 
 ![Alt text](https://media.licdn.com/dms/image/D4D16AQHXNVsbCE8d6Q/profile-displaybackgroundimage-shrink_350_1400/0/1681925313689?e=1695254400&v=beta&t=f9mdvOVYgmDhB8PKMuDQ1jDcRwhV6eHXPV8vE8upeXE "a title")
 ## Skills
 - 🧾 JavaScript, TypeScript, Python 
