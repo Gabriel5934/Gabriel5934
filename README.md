@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Alt text](https://media.licdn.com/dms/image/D4D16AQHXNVsbCE8d6Q/profile-displaybackgroundimage-shrink_350_1400/0/1681925313689?e=1695254400&v=beta&t=f9mdvOVYgmDhB8PKMuDQ1jDcRwhV6eHXPV8vE8upeXE "a title")
 ## Skills
 - 🧾 JavaScript, TypeScript, Python 
-- 🔧 React, Svelte, Next.js, SvelteKit
+- 🔧 React, Svelte, Angular, Next.js, SvelteKit
 - 🔥 Firebase
 - 🧪 Cypress, Jest, Vitest
 - 🎨 TailwindCss, MaterialUI
